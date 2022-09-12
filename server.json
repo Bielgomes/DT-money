@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2020-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "1",
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2020-04-10T00:00:00.000Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-09-11T22:33:33.193Z",
+      "id": "3PKCNKj"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Banana",
+      "price": 4,
+      "type": "income",
+      "createdAt": "2022-09-11T22:49:26.410Z",
+      "id": "czzZLRA"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Gelinho",
+      "price": 4,
+      "type": "income",
+      "createdAt": "2022-09-11T22:49:58.191Z",
+      "id": "nP53haX"
+    }
+  ]
+}
