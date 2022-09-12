@@ -9,7 +9,7 @@ DT Money é um dos projetos realizados ao decorrer da Trilha ReactJS da RocketSe
 
 ## Tecnologias Utilizadas
 - ReactJS
-- Phosport-react
+- Phosphor-react
 - Date-fns
 - React-hook-form
 - Zod
