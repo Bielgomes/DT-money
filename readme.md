@@ -1,6 +1,6 @@
 # DT Money
 <img src="https://i.imgur.com/LGEXSHe.gif">
-DT Money é um dos projetos realizados ao decorrer da Trilha ReactJS da RocketSeat.
+DT Money é um dos projetos realizados no decorrer da Trilha ReactJS da RocketSeat.
 
 ## Funcionalidades
 - Criar uma transação;
