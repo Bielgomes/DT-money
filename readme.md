@@ -15,3 +15,4 @@ DT Money é um dos projetos realizados no decorrer da Trilha ReactJS da RocketSe
 - Zod
 - ContextAPI
 - Axios
+- Json Server
